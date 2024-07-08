@@ -1,0 +1,21 @@
+{
+  "name": "beckend",
+  "version": "1.0.0",
+  "description": "14 days target till 21 july.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "14",
+    "day",
+    "only"
+  ],
+  "author": "gajendra thakur",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
